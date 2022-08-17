@@ -8,7 +8,7 @@ This is a medium website clone. Developed with Next.js framework that gives feat
 
 - Next.js
 - Tailwind CSS
-- React
+- React JS
 - TypeScript
 - React Hook Form
 - SWR
