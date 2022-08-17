@@ -4,11 +4,18 @@ This is a medium website clone. Developed with Next.js framework that gives feat
 
 ## Technologies Used
 
+### FrontEnd
+
 - Next.js
 - Tailwind CSS
 - React
 - TypeScript
 - React Hook Form
 - SWR
+
+### BackEnd
+
+- SupaBase
+- PostgreSQL
 
 [Deployed Website](https://medium-demo-phi.vercel.app/)
